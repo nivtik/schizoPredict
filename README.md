@@ -11,12 +11,12 @@ The following are provided:
 Task activation prediction codes:
 
 1. preproc_stats.sh: bash script for preprocessing and statistical analysis for a single participant (script dependencies may be found in the feat directorty).
-2. Prediction codes can be found elsewhere (https://git.fmrib.ox.ac.uk/saad/ActPred)
+2. Prediction codes can be found elsewhere (link_to_saad's_git).
 
 Classificaion codes:
 
-1. make_features_rs.py: feature extraction (atlas based functional connectivity matrices)
-2. SCZ_classify.ipynb: classification (requires features for all participants and a labeling file)
+1. make_features_rs.py: feature extraction (atlas based functional connectivity matrices).
+2. SCZ_classify.ipynb: classification (requires features for all participants and a labeling file).
 
 Examples:
 
