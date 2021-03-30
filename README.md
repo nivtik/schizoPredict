@@ -11,7 +11,7 @@ The following are provided:
 Task activation prediction codes:
 
 1. preproc_stats.sh: bash script for preprocessing and statistical analysis for a single participant (script dependencies may be found in the feat directorty).
-2. Prediction codes can be found elsewhere (link_to_saad's_git).
+2. For prediction process see Tavor et al., 2016.
 
 Classificaion codes:
 
@@ -24,7 +24,8 @@ Examples:
 
 Refrences:
 1. M. Jenkinson, C.F. Beckmann, T.E. Behrens, M.W. Woolrich, S.M. Smith. FSL. NeuroImage, 62:782-90, 2012
-2. Woolrich, M. W., Ripley, B. D., Brady, M., & Smith, S. M. (2001). Temporal Autocorrelation in Univariate Linear Modeling of FMRI Data. NeuroImage, 14(6), 1370–1386. 
+2. M.W. Woolrich, B.D. Ripley, M. Brady, S.M. Smith. Temporal Autocorrelation in Univariate Linear Modeling of FMRI Data. NeuroImage, 14(6):1370–1386. 2001
 3. G. Salimi-Khorshidi, G. Douaud, C.F. Beckmann, M.F. Glasser, L. Griffanti S.M. Smith. Automatic denoising of functional MRI data: Combining independent component analysis and hierarchical fusion of classifiers. NeuroImage, 90:449-68, 2014
 4. L. Griffanti, G. Salimi-Khorshidi, C.F. Beckmann, E.J. Auerbach, G. Douaud, C.E. Sexton, E. Zsoldos, K. Ebmeier, N. Filippini, C.E. Mackay, S. Moeller, J.G. Xu, E. Yacoub, G. Baselli, K. Ugurbil, K.L. Miller, and S.M. Smith. ICA-based artefact removal and accelerated fMRI acquisition for improved resting state network imaging. NeuroImage, 95:232-47, 2014
-5. A. Schaefer, R. Kong, E.M. Gordon, T.O. Laumann, X.N. Zuo, A.J. Holmes, et al. (2018): Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cereb Cortex 28: 3095–3114.
+5. A. Schaefer, R. Kong, E.M. Gordon, T.O. Laumann, X.N. Zuo, A.J. Holmes, et al. Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cereb Cortex 28: 3095–3114. 2018
+6. I. Tavor, O., Parker Jones, R.B. Mars, S.M. Smith, T.E. Behrens, S.Jbabdi. Task-free MRI predicts individual differences in brain activity during task performance. Science 352: 216–20. 2016
