@@ -20,7 +20,8 @@ Classificaion codes:
 
 Examples:
 
-1. nifti folder containing anatomical, resting_state and Nback task data for a single example participant.
+1. nifti folder containing defaced anatomical T1w image, resting_state and Nback task data for a single example participant.
+2. classificaton examples folder: Example text files for make_features_rs.py
 
 Refrences:
 1. M. Jenkinson, C.F. Beckmann, T.E. Behrens, M.W. Woolrich, S.M. Smith. FSL. NeuroImage, 62:782-90, 2012
