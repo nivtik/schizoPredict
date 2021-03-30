@@ -1,6 +1,6 @@
 # schizoPredict
 
-Codes for fMRI preprocessing and individual statistical anaslysis, and classification between patients and controls (Tik et al., 2020).
+Codes for fMRI preprocessing and individual statistical anaslysis, and classification between patients and controls.
 
 The provided codes are using the following:
 1. FMRIB Software Library (Jenkinson et al., 2012), including FEAT (Woolrich et al., 2001) and FIX (Griffanti et al., 2014).
